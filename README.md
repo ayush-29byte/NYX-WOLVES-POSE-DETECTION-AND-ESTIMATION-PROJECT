@@ -83,6 +83,16 @@ The code for pose estimation utilizes the MediaPipe library provided by Google. 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+## Pose Detection Result
+
+
+https://github.com/ayush-29byte/NYX-WOLVES-POSE-DETECTION-AND-ESTIMATION-PROJECT/assets/62539392/54547e1b-a31d-4185-8080-299c058458c2
+
+## Object Detection Result
+
+https://github.com/ayush-29byte/NYX-WOLVES-POSE-DETECTION-AND-ESTIMATION-PROJECT/assets/62539392/6d15c5f0-e42c-4f33-a872-5a2007aafd51
+
+
 
 Feel free to customize the repository URLs, instructions, prerequisites, and other details according to your project. Make sure to include any necessary licenses, credits, and additional information as required.
 ```
