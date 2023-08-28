@@ -28,7 +28,7 @@ For object detection, you will need to download the YOLOv3 weights (`yolov3.weig
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/pose-estimation.git
+git clone https://github.com/ayush-29byte/pose-estimation.git
 ```
 
 2. Navigate to the `pose-estimation` directory:
@@ -50,7 +50,7 @@ This script will open a video file (specified in the script) and visualize the p
 1. Clone the repository to your local machine (if not done already):
 
 ```bash
-git clone https://github.com/yourusername/object-detection.git
+git clone https://github.com/ayush-29byte/object-detection.git
 ```
 
 2. Navigate to the `object-detection` directory:
